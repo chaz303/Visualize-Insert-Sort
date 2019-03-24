@@ -8,7 +8,7 @@ Instructions to download and view:
 * `cd ./Visualize-Insert-Sort/`
 * `google-chrome ./index.html`
 
-For extra fun, try slowly moving the mouse back and forth over the image as it is sorting.
+For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted.
 
 <p align="center">
 <img src="./img/step1.png">
