@@ -1,8 +1,8 @@
-## Visualize-Insert-Sort
+# Visualize-Insert-Sort
 
 This is a simple visualization of a sorting algorithm, insert sort. It is written Javascript, without the use of any libraries.
 
-# Instructions to download and view:
+## Instructions to download and view:
 
 * `git clone https://github.com/chaz303/Visualize-Insert-Sort.git`
 * `cd ./Visualize-Insert-Sort/`
