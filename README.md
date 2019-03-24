@@ -16,3 +16,5 @@ For extra fun, try slowly moving the mouse back and forth over the image as it i
 <img src="./img/step3.png">
 <img src="./img/step4.png">
 </p>
+
+* Note: the images above were taken from 4 different randomly generated sequences.
