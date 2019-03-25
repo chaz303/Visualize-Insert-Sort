@@ -8,7 +8,11 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 * `cd ./visualize-insert-sort/`
 * `google-chrome ./index.html`
 
-For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted. This can be seen in the second gif on the bottom of this readme.
+## Instructions for use:
+
+* Click on the colored bars to scramble and sort them.
+* Move the cursor back-and-forth over the colored bars as they are being sorted.
+* Repeat.
 
 <table width="width:100%">
  <tr><td colspan="2">
