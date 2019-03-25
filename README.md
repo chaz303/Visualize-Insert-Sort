@@ -12,8 +12,8 @@ For extra fun, try slowly moving the mouse back and forth over the colored bars 
 
 <div align="center">
 <img src="./img/insertsort.png"><br><br>
-  <div>
-  <div style="float:left; width:50%"><img src="./img/insertsort1.gif"></div>
-  <div style="float:right; width:50%"><img src="./img/insertsort2.gif"></div>
+  <div float="left">
+  <div><img src="./img/insertsort1.gif"></div>
+  <div><img src="./img/insertsort2.gif"></div>
   </div>
 </div>
