@@ -18,6 +18,6 @@ For extra fun, try slowly moving the mouse back and forth over the colored bars 
    <td><img src="./img/insertsort1.gif"><br>without mouse movement</td>
    <td><img src="./img/insertsort2.gif"><br>with mouse movement</td>
    <tr>
- <center></table>
+ </center></table>
 </div>
 
