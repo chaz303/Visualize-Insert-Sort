@@ -12,16 +12,7 @@ For extra fun, try slowly moving the mouse back and forth over the colored bars 
 
 <div align="center">
 <img src="./img/insertsort.png"><br><br>
-  <div class="parent">
   <div><img src="./img/insertsort1.gif"><br>without mouse movement</div>
   <div><img src="./img/insertsort2.gif"><br>with mouse movement</div>
-  </div>
 </div>
 
-<style>
-.parent{
-     display:flex;
-     flex-wrap: wrap;
-}
-  </style>
-  
