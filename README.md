@@ -10,8 +10,8 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 
 For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted. This can be seen in the second gif on the bottom of this readme.
 
-<p align="center">
+<div align="center">
 <img src="./img/insertsort.png"><br><br>
-<img src="./img/insertsort1.gif">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<img src="./img/insertsort2.gif">
-</p>
+  <div style="float"><img src="./img/insertsort1.gif"></div>
+  <div style="float"><img src="./img/insertsort2.gif"></div>
+</div>
