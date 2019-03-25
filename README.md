@@ -12,6 +12,6 @@ For extra fun, try slowly moving the mouse back and forth over the colored bars 
 
 <p align="center">
 <img src="./img/insertsort.png"><br><br>
-<img src="./img/insertsort1.gif">&nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="./img/insertsort1.gif">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="./img/insertsort2.gif">
 </p>
