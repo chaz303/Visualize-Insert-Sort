@@ -10,9 +10,10 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 
 For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted. This can be seen in the second gif on the bottom of this readme.
 
-<div align="center">
+<table width="width:100%">
+ <tr><td>
 <img src="./img/insertsort.png"><br><br>
- <table width="width:100%">
+ </td></tr>
   <tr>
    <td><img src="./img/insertsort1.gif"><br>without mouse movement</td>
    <td><img src="./img/insertsort2.gif"><br>with mouse movement</td>
