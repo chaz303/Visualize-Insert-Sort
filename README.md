@@ -4,8 +4,8 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 
 ## Instructions to download and view:
 
-* `git clone https://github.com/chaz303/Visualize-Insert-Sort.git`
-* `cd ./Visualize-Insert-Sort/`
+* `git clone https://github.com/chaz303/visualize-insert-sort.git`
+* `cd ./visualize-insert-sort/`
 * `google-chrome ./index.html`
 
 For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted. This can be seen in the second gif on the bottom of this readme.
