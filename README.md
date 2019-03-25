@@ -8,7 +8,7 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 * `cd ./Visualize-Insert-Sort/`
 * `google-chrome ./index.html`
 
-For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted.
+For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted. This can be seen in the second gif on the bottom of this readme.
 
 <p align="center">
 <img src="./img/insertsort.png"><br><br>
