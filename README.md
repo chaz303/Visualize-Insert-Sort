@@ -15,8 +15,8 @@ For extra fun, try slowly moving the mouse back and forth over the colored bars 
 <img src="./img/insertsort.png">
  </td></tr>
   <tr>
-   <td align="center"><img src="./img/insertsort1.gif"><br>without mouse movement</td>
-   <td align="center"><img src="./img/insertsort2.gif"><br>with mouse movement</td>
+   <td align="center"><img src="./img/insertsort1.gif"><br><b>without cursor movement</b></td>
+    <td align="center"><img src="./img/insertsort2.gif"><br><b>with cursor movement</b></td>
    <tr>
  </table>
 </div>
