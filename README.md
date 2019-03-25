@@ -11,10 +11,7 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted.
 
 <p align="center">
-<img src="./img/step1.png">
-<img src="./img/step2.png">
-<img src="./img/step3.png">
-<img src="./img/step4.png">
+<img src="./img/insertsort.png">
+<img src="./img/insertsort1.gif">
+<img src="./img/insertsort2.gif">
 </p>
-
-* Note: the images above were taken from 4 different randomly generated sequences.
