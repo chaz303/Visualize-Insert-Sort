@@ -11,8 +11,8 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
 For extra fun, try slowly moving the mouse back and forth over the colored bars as they are being sorted. This can be seen in the second gif on the bottom of this readme.
 
 <div align="center">
-<img src="./img/insertsort.png"><br><br>
+<img src="./img/insertsort.png"><br><br><div display="flex">
   <div align="left"><img src="./img/insertsort1.gif"><br>without mouse movement</div>
-  <div align="right"><img src="./img/insertsort2.gif"><br>with mouse movement</div>
+ <div align="right"><img src="./img/insertsort2.gif"><br>with mouse movement</div></div>
 </div>
 
