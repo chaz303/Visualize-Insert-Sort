@@ -3,9 +3,9 @@ body {
 }
 #header {
   text-align: center;
-  color: #ddd;
-  font-family: "Arial";
-  font-family: sans-serif;
+  color: #d8d8d8;
+  font-family: "Orbitron", sans-serif;
+  font-stretch: expanded;
   width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -19,7 +19,7 @@ hr {
 }
 #footer {
   text-align: right;
-  color: #ddd;
+  color: #d8d8d8;
   font-family: "Arial";
   font-family: sans-serif;
   width: 800px;
