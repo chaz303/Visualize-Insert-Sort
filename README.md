@@ -21,6 +21,6 @@ This is a simple visualization of a sorting algorithm, insert sort. It is writte
   <tr>
    <td align="center"><img src="./img/insertsort1.gif"><br><b>without cursor movement</b></td>
     <td align="center"><img src="./img/insertsort2.gif"><br><b>with cursor movement</b></td>
-   <tr>
+   </tr>
  </table>
 
