@@ -7,6 +7,7 @@ body {
   font-family: "Orbitron", sans-serif;
   font-stretch: expanded;
   width: 800px;
+  margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -15,6 +16,15 @@ hr {
   height: 1px;
   color: #555; /* old IE */
   background-color: #555; /* Modern Browsers */
+}
+#comment {
+  text-align: center;
+  color: #d8d8d8;
+  font-family: "Arial";
+  font-family: sans-serif;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 #footer {
   text-align: right;

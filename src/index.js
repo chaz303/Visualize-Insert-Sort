@@ -3,10 +3,7 @@ const rectWidth = 3;
 const rectHeight = 400;
 const spacing = 1;
 const numberOfElements = 200;
-//let isActive = false;
-//const width = numberOfElements * (rectWidth + spacing);
-//const height = rectHeight + (spacing * 2);
-//const document.getElementById('svgOne').appendChild(rect);
+let isActive = false;
 let delay = 0;
 let phase = 110;
 let width = 100;
@@ -20,11 +17,12 @@ for (let i = 0; i < dataset.length; i++) {
 insertionSort(dataset);
 
 function mouseClick() {
-  //console.log(isActive);
-  //if (isActive === false){
-  let dataset = randomArray(numberOfElements);
-  insertionSort(dataset);
-  //}
+  console.log(isActive);
+  if (isActive === false) {
+    isActive = true;
+    let dataset = randomArray(numberOfElements);
+    insertionSort(dataset);
+  }
 }
 
 function deleteBars() {
@@ -76,42 +74,26 @@ function randomArray(maxVal) {
 }
 
 function insertionSort(unsortedList) {
-  //isActive = true;
-  //console.log(isActive);
   for (let i = 1; i < unsortedList.length; i++) {
     setTimeout(() => {
-      //console.log(unsortedList);
-      let tmp = unsortedList[i]; //Copy of the current element.
-      /*Check through the sorted part and compare with the number in tmp. If large, shift the number*/
+      let tmp = unsortedList[i];
       for (var j = i - 1; j >= 0 && unsortedList[j] > tmp; j--) {
-        //Shift the number
         unsortedList[j + 1] = unsortedList[j];
-        //if(j < 0) {isActive = false;}
       }
-      //Insert the copied number at the correct position
-      //in sorted part.
       unsortedList[j + 1] = tmp;
       createBars(unsortedList);
     }, i * 40);
   }
-  //console.log(isActive);
   return unsortedList;
 }
 
 function colorPhase(input) {
-  tmp = (input.clientX % 36) / 6;
-  //if (tmp > 4) {tmp -= 4};
-  //if (tmp < 0) {tmp += 4};
-  phase = tmp;
-
-  //tmp = (input.clientX/2);
-
-  //width = 63 + tmp;
-  //console.log(phase);
+  phase = (input.clientX % 36) / 6;
 }
 
+colorPhase;
+
 function colorCycle(position) {
-  //if (phase == undefined) phase = 0;
   const center = 128;
   const width = 100;
   const frequency = (Math.PI * 2) / numberOfElements;
