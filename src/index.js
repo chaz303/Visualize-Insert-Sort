@@ -15,10 +15,6 @@ for (let i = 0; i < dataset.length; i++) {
 
 insertionSort(dataset);
 
-function mouseClick() {
-  window.location.reload(false);
-}
-
 function deleteBars() {
   let delPar = document.getElementById("svgOne");
   while (delPar.firstChild) {

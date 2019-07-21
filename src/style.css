@@ -14,10 +14,10 @@ body {
 hr {
   border: none;
   height: 1px;
-  color: #555; /* old IE */
-  background-color: #555; /* Modern Browsers */
+  background-color: #555;
 }
-#comment {
+#comment,
+a {
   text-align: center;
   color: #d8d8d8;
   font-family: "Arial";
@@ -25,6 +25,9 @@ hr {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+}
+a {
+  text-decoration: none;
 }
 #footer {
   text-align: right;
