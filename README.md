@@ -1,6 +1,6 @@
-# Visualize Insert Sort
+# Visualize Insertion Sort
 
-This is a simple visualization of a sorting algorithm, insert sort. It is written Javascript, without the use of any libraries.
+This is a simple visualization of the insertion sort algorithm. It is written Javascript, without the use of any libraries.
 
 ## Instructions to download and view:
 

@@ -3,7 +3,6 @@ const rectWidth = 3;
 const rectHeight = 400;
 const spacing = 1;
 const numberOfElements = 200;
-let isActive = false;
 let delay = 0;
 let phase = 110;
 let width = 100;
@@ -17,12 +16,7 @@ for (let i = 0; i < dataset.length; i++) {
 insertionSort(dataset);
 
 function mouseClick() {
-  console.log(isActive);
-  if (isActive === false) {
-    isActive = true;
-    let dataset = randomArray(numberOfElements);
-    insertionSort(dataset);
-  }
+  window.location.reload(false);
 }
 
 function deleteBars() {
